@@ -3,7 +3,9 @@
 Desarrollo de sistema de busqueda inteligente en base a palabras clave y criterios establecidos por una requisición
 
 ## Contenido
-###SMART_TAG
+
+### SMART_TAG
+
 │   .gitignore
 │   CODE_OF_CONDUCT.md
 │   LICENSE
