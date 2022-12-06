@@ -250,7 +250,7 @@ class SmartSearch:
 
             """rango de edad  0.0625 """
             try:
-                edad = int(base["edad"][x])
+                edad = int(base["edad"][x])  # type: ignore
                 if edad >= age_minima & edad <= age_maxima:
                     score = score + w_edad
                     lista_match.append("edad")
