@@ -4,7 +4,7 @@ Desarrollo de sistema de busqueda inteligente en base a palabras clave y criteri
 
 ## Contenido
 
-### SMART_TAG
+SMART_TAG
 
 │   .gitignore
 │   CODE_OF_CONDUCT.md
